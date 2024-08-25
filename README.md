@@ -4,7 +4,7 @@
 **Adhi College of Engineering and Technology**
 
 ---
-<img align='right' width='370' height='290' src='https://lottie.host/embed/0ba6b8a8-1cb5-4068-bbbe-70ddf44bb727/YdcE4GplwJ.json'>
+<img align='right' width='370' height='290' src='https://lottiefiles.com/free-animation/web-development-5UkvjyfGbA'>
 
 🌱 **Currently Pursuing:**  
 - Computer Science Engineering
