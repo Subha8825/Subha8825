@@ -30,8 +30,10 @@
 
 ### Tools
 <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  <img width="50" height="50" src="https://img.icons8.com/color/50/pycharm--v1.png" alt="pycharm--v1"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/50/chatgpt--v2.png" alt="chatgpt--v2"/> 
-      
 
+### Coding Practice Platform I Use
+<img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> 
+      
 ### Workspace
 <img width="50" height="50" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="Linux"/>   <img width="50" height="50" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Windows 11"/>
 
