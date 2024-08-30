@@ -39,5 +39,5 @@
 
 ### Github Graph
 
-[![Subhalaksmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subha8825&bg_color=000000&color=ffffff&line=FF0000&point=ffffff&area=true&hide_border=true)](https://github.com/Subha8825/github-readme-activity-graph)
+[![Subhalaksmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subha8825&bg_color=000000&color=ffffff&line=00FF00&point=ffffff&area=true&hide_border=true)](https://github.com/Subha8825/github-readme-activity-graph)
 
