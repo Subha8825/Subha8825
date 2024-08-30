@@ -4,7 +4,7 @@
 **Adhi College of Engineering and Technology**
 
 ---
-<img align='right' width='550' height='390' src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif'>
+<img align='right' width='370' height='290' src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif'>
 
 🌱 **Currently Pursuing:**  
 - Computer Science Engineering
