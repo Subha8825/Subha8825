@@ -15,6 +15,7 @@
 
 💡 **Looking to Collaborate On:**  
 - AI Projects
+- Full Stack
   
 📫 **How to Reach Me:**  
 - <a href="https://www.linkedin.com/in/subhalakshmi-v-38297327b">
