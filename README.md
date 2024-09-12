@@ -38,9 +38,11 @@
 ### Workspace
 <img width="50" height="50" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="Linux"/>   <img width="50" height="50" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Windows 11"/>
 
-### Most used Language
+### Most Used Language
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha8825&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha8825&layout=compact&theme=tokyonight)
+
+
 
 ### GitHub Stats
 
