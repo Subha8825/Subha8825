@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Subhalakshmi V
 
 ### 🎓 Computer Science Engineering | Final Year Student
-**Adhi College of Engineering and Technology**
+  **Adhi College of Engineering and Technology**
 
 ---
 <img align='right' width='570' height='390' src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif'>
