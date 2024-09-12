@@ -42,15 +42,13 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha8825&layout=compact)
 
+### GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subha8825&show_icons=true&theme=radical)
 
 ### Github Graph
 
 [![Subhalaksmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subha8825&bg_color=000000&color=ffffff&line=00FF00&point=ffffff&area=true&hide_border=true)](https://github.com/Subha8825/github-readme-activity-graph)
 
-
-### 🔝 Top Contributed Repo
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subha8825&show_icons=true&theme=radical)
 
 
