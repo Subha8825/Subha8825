@@ -50,6 +50,5 @@
 
 
 ### 🔝 Top Contributed Repo
-
-![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=Subha8825&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Subha8825&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
