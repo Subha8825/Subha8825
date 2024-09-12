@@ -38,6 +38,10 @@
 ### Workspace
 <img width="50" height="50" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="Linux"/>   <img width="50" height="50" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Windows 11"/>
 
+### Most used Language
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha8825&layout=compact)
+
 ### Github Graph
 
 [![Subhalaksmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subha8825&bg_color=000000&color=ffffff&line=00FF00&point=ffffff&area=true&hide_border=true)](https://github.com/Subha8825/github-readme-activity-graph)
