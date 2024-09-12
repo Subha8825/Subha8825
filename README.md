@@ -54,8 +54,11 @@
 
 
 
-### Snake Eating My Contribution Graph
-![snake gif](https://github.com/Subha8825/Subha8825/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
 
 
 
