@@ -4,7 +4,7 @@
 
 
 
-### 🎓 Computer Science Engineering | Final Year Student
+ 🎓 Computer Science Engineering | Final Year Student
   **Adhi College of Engineering and Technology**
 
 
