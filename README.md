@@ -40,8 +40,8 @@
 
 ---
 
-<h2 align="center">💻 Technologies & Tools I Use</h2>
-<p align="center">
+<h2 align="left">💻 Technologies & Tools I Use</h2>
+<p align="left">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="50px"/> 
   <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++" width="50px"/> 
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="50px"/> 
@@ -53,8 +53,8 @@
 
 ---
 
-<h2 align="center">⚙️ Tools I Use</h2>
-<p align="center">
+<h2 align="left">⚙️ Tools I Use</h2>
+<p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" width="50px"/> 
   <img src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" width="50px"/> 
   <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="ChatGPT" width="50px"/>
