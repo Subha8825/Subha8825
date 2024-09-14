@@ -64,8 +64,10 @@
 
 <h2 align="left">💻 Platforms I Use for Coding Practice</h2>
 <p align="left">
- <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" width="50px"/> 
-  <img src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" width="50px"/> 
+<img src="https://img.icons8.com/fluency/70/codewars.png" alt="Codewars" width="70px"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-2944960.png" alt="LeetCode" width="70px"/> 
+<img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="70px"/>
+ 
   
 </p>
 
