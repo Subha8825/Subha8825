@@ -13,12 +13,12 @@
 
 <div style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 20px; max-width: 600px; margin: 20px auto; background-color: #f9f9f9;">
   <h2 style="text-align: center; color: #FF1493;">🌱 Currently Pursuing</h2>
-  <p style="text-align: center; font-size: 18px;">🎓 Computer Science Engineering</p>
+  <p style="text-align: center; font-size: 18px; color: #333;">🎓 Computer Science Engineering</p>
   
   <hr style="border: 1px solid #e0e0e0;">
 
   <h2 style="text-align: center; color: #FF1493;">💻 Passionate About</h2>
-  <p style="text-align: center; font-size: 18px;">
+  <p style="text-align: center; font-size: 18px; color: #333;">
     🌐 Web Development <br> 
     🌍 Open Source
   </p>
@@ -26,7 +26,7 @@
   <hr style="border: 1px solid #e0e0e0;">
 
   <h2 style="text-align: center; color: #FF1493;">💡 Looking to Collaborate On</h2>
-  <p style="text-align: center; font-size: 18px;">
+  <p style="text-align: center; font-size: 18px; color: #333;">
     🤖 AI Projects <br> 
     🔧 Full Stack Development
   </p>
@@ -43,8 +43,9 @@
   <hr style="border: 1px solid #e0e0e0;">
 
   <h2 style="text-align: center; color: #FF1493;">😄 Pronouns</h2>
-  <p style="text-align: center; font-size: 18px;">🎨 Web Designer</p>
+  <p style="text-align: center; font-size: 18px; color: #333;">🎨 Web Designer</p>
 </div>
+
 
 
 
