@@ -6,8 +6,8 @@
 
 ---
 
-<h2 align="center">🎓 Computer Science Engineering | Final Year Student</h2>
-<h4 align="center"><strong>Adhi College of Engineering and Technology</strong></h4>
+<h2 align="center">Adhi College of Engineering and Technology</h2>
+<h4 align="center"><strong>🎓 Final Year Student</strong></h4>
 
 ---
 
