@@ -2,54 +2,37 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhalakshmi!;&color=FF1493" />
 </h1>
 
-
-
-
  ### 🎓 Computer Science Engineering | Final Year Student
   **Adhi College of Engineering and Technology**
-
-
-<img align="right" height='500' width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
+<img align="right" height='400' width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 <div style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 20px; max-width: 600px; margin: 20px auto; background-color: #f9f9f9;">
 
    <h2 style="text-align: center;">🌱 <span style="color:#FF1493;">Currently Pursuing</span></h2>
-
   <p style="text-align: center; font-size: 18px;">🎓 Computer Science Engineering</p>
-  
   <hr style="border: 1px solid #e0e0e0;">
-
   <h2 style="text-align: center; color: #FF1493;">💻 Passionate About</h2>
   <p style="text-align: center; font-size: 18px;">
     🌐 Web Development <br> 
     🌍 Open Source
   </p>
-
   <hr style="border: 1px solid #e0e0e0;">
-
   <h2 style="text-align: center; color: #FF1493;">💡 Looking to Collaborate On</h2>
   <p style="text-align: center; font-size: 18px;">
     🤖 AI Projects <br> 
     🔧 Full Stack Development
   </p>
-
   <hr style="border: 1px solid #e0e0e0;">
-
   <h2 style="text-align: center; color: #FF1493;">📫 How to Reach Me</h2>
   <p style="text-align: center;">
     <a href="https://www.linkedin.com/in/subhalakshmi-v-38297327b">
       LinkedIn Profile
     </a>
   </p>
-
   <hr style="border: 1px solid #e0e0e0;">
-
   <h2 style="text-align: center; color: #FF1493;">😄 Pronouns</h2>
   <p style="text-align: center; font-size: 18px;">🎨 Web Designer</p>
 </div>
-
-
-
 
 
 ### I code in
