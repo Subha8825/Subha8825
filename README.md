@@ -13,6 +13,7 @@
 
 <div style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 20px; max-width: 600px; margin: 20px auto; background-color: #f9f9f9;">
 <h2 style="text-align: center;">🌱 <span style="color: pink;">Currently Pursuing</span></h2>
+![Currently Pursuing](https://img.shields.io/badge/🌱%20Currently%20Pursuing-pink?style=for-the-badge&logo=none)
 
   <p style="text-align: center; font-size: 18px;">🎓 Computer Science Engineering</p>
   
