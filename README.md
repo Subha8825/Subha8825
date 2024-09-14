@@ -23,7 +23,7 @@
   
 📫 **How to Reach Me:**  
 - <a href="https://www.linkedin.com/in/subhalakshmi-v-38297327b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img align="right"  width="400" src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE2MjZua2FhZ3F1NDR5ajJyY3Y4ZDg4bGd6ZDl6dzhscXdlMXdicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.webp'>
   </a>
   
 😄 **Pronouns:**  
