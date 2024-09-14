@@ -8,8 +8,10 @@
   **Adhi College of Engineering and Technology**
 
 
-<img align="right" height='400' width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
-🌱 **Currently Pursuing:**  
+<img align="right" height='400' width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
+
+🌱 **Currently Pursuing:** 
+
 - Computer Science Engineering
 
 💻 **Passionate About:**  
