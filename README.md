@@ -8,7 +8,7 @@
   **Adhi College of Engineering and Technology**
 
 ---
-<img align="right"  width="400" src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp '>
+<img align="right"  width="400" src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE2MjZua2FhZ3F1NDR5ajJyY3Y4ZDg4bGd6ZDl6dzhscXdlMXdicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.webp  '>
 
 🌱 **Currently Pursuing:**  
 - Computer Science Engineering
