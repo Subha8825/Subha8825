@@ -62,8 +62,8 @@
 
 ---
 
-<h2 align="center">💻 Platforms I Use for Coding Practice</h2>
-<p align="center">
+<h2 align="left">💻 Platforms I Use for Coding Practice</h2>
+<p align="left">
   <img src="https://img.icons8.com/fluency/48/codewars.png" alt="Codewars" width="50px"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-2944960.png" alt="LeetCode" width="50px"/>  
   <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="50px"/>  
