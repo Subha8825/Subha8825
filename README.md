@@ -71,22 +71,22 @@
 
 ---
 
-<h2 align="center">🖥️ Workspace</h2>
-<p align="center">
+<h2 align="left">🖥️ Workspace</h2>
+<p align="left">
   <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="Linux" width="50px"/>  
   <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Windows" width="50px"/>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
+<h2 align="left">📊 GitHub Stats</h2>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Subha8825&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
 
-<h2 align="center">🌟 GitHub Activity Graph</h2>
+<h2 align="left">🌟 GitHub Activity Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subha8825&bg_color=000000&color=ffffff&line=00FF00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
