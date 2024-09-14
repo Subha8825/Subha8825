@@ -12,7 +12,8 @@
 <img align="right" height='500' width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 <div style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 20px; max-width: 600px; margin: 20px auto; background-color: #f9f9f9;">
-<h2 style="text-align: center;">🌱 <span style="color:#FF1493;">Currently Pursuing</span></h2>
+    
+![Heading](https://img.shields.io/badge/🌱%20Currently%20Pursuing-FF1493?style=for-the-badge)
 
 
   <p style="text-align: center; font-size: 18px;">🎓 Computer Science Engineering</p>
