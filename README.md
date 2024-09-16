@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="300px" height="300px" alt="GIF" style="border-radius:10px;"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="500px" height="400px" alt="GIF" style="border-radius:15px;"/>
 
 ### 🌱 **Currently Pursuing**  
 - **Computer Science Engineering**  
@@ -66,7 +66,10 @@
 
 <h2 align="left">💻 Platforms I Use for Coding Practice</h2>
 <p align="left">
-<img src="https://img.icons8.com/fluency/70/codewars.png" alt="Codewars" width="70px"/> 
+    
+<img src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" width="70px"/>   
+<img src="https://dmmy6mpbxgeck.cloudfront.net/68b82ab2-3e36-4428-aa21-6e5e2cd407c5/widget/8f96fa5f-3a91-4de7-8881-c62376b37acf" width="70px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" width="70px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-2944960.png" alt="LeetCode" width="70px"/> 
 <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="70px"/>
  
