@@ -75,15 +75,6 @@
  
   
 </p>
-
----
-
-<h2 align="left">🖥️ Workspace</h2>
-<p align="left">
-  <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="Linux" width="50px"/>  
-  <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Windows" width="50px"/>
-</p>
-
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
