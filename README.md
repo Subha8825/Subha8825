@@ -6,15 +6,17 @@
 
 ---
 
-<h2 align="center">🎓 Final Year Student</h2>
-<h4 align="center"><strong>Adhi College of Engineering and Technology</strong></h4>
+<h2 align="center">🎓  Recent Computer Science Graduate-2025</h2>
 
 ---
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3YnBmamQ5eHEzemI2cnduY3A0bG51MXRjc2ZrbmoxdWlvandtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="500px" height="400px" alt="GIF" style="border-radius:15px;"/>
 
-### 🌱 **Currently Pursuing**  
-- **Computer Science Engineering**  
+### 🌱 **Academic Background**  
+- **Bachelor of Engineering in Computer Science and Engineering** 
+  
+-  **Adhi College of Engineering and Technology**
+-  Graduated with a strong foundation in programming, web technologies, and software development.
 
 ---
 
@@ -72,9 +74,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" width="70px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-2944960.png" alt="LeetCode" width="70px"/> 
 <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="70px"/>
- 
-  
 </p>
+
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
